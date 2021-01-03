@@ -1,0 +1,16 @@
+{
+  "id": "airdroid",
+  "name": "AirDroid",
+  "version": "N/A",
+  "description": "AirDroid",
+  "main": "index.js",
+  "license": "MIT",
+  "config": {
+    "author": "Gal Grünfeld",
+    "serviceURL": "https://web.airdroid.com",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "disablewebsecurity": true
+  }
+}

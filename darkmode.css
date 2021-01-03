@@ -1,0 +1,48 @@
+:root {
+  --widget-bg: rgb(255 255 255 / 15%);
+}
+
+#block-desktop {
+  background: "black";
+}
+
+.bokc-topNav.nav {
+  background: var(--widget-bg);
+}
+
+.window-desktop-widget-bg {
+  background-color: var(--widget-bg);
+}
+
+.widget-airTransport-up {
+  border-bottom-color: var(--widget-bg);
+}
+
+div[class^="ad-"] {
+  display: none;
+}
+
+#widget_widget_74 {
+  top: 2.5vh;
+}
+
+.widget-airTransport-top {
+  background: var(--widget-bg) !important;
+  border-bottom: 1px solid var(--widget-bg);
+}
+
+.block-taskbar {
+  background: var(--widget-bg);
+}
+
+.layout-taskbar-signal {
+  filter: invert(0.75);
+}
+
+.popup-menu {
+  background: #262626;
+}
+
+.popup-menu .popup-menu-using-item-hover {
+  background-color: #515151;
+}
