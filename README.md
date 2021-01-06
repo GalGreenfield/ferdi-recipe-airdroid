@@ -13,5 +13,5 @@
 #### Currently under development (there's no regular development cycle)
 
 How to create your own Ferdi/Franz recipes:<br>
-1. Create a folder to put the files in (eg `airdroid`, `airdroid-recipe`, etc.)
+1. Create a folder to put the files in (e.g `airdroid`, `airdroid-recipe`, etc.)
 2. Treat this folder as `whatsapp` and follow [📖 the official installation instructions](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#user-content-installation)
