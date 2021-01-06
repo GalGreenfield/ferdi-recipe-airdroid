@@ -7,7 +7,11 @@
 
 ### _ℹ️ Also supports [Franz](https://meetfranz.com/)_
 
+### Installation
+📖 [Official installation instructions](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#user-content-installation)
+
 #### Currently under development (there's no regular development cycle)
 
 How to create your own Ferdi/Franz recipes:<br>
-[📖 Read the documentation](https://github.com/meetfranz/plugins)
+1. Create a folder to put the files in (eg `airdroid`, `airdroid-recipe`, etc.)
+2. Treat this folder as `whatsapp` and follow [📖 the official installation instructions](https://github.com/meetfranz/plugins)
