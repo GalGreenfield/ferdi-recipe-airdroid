@@ -1,13 +1,13 @@
-<!--# ![img](https://github.com/GalGreenfield/ferdi-recipe-airdroid/blob/main/icon.png?raw=true | width=100px)-->
-
 <h1 align="center">Ferdi Recipe for AirDroid</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/getferdi/ferdi/develop/build-helpers/images/icon.png" height="60px" /> &nbsp;&nbsp; <img src="https://cdn1.airdroid.com/V3432012181656/theme/stock/images/logo_login.png" height="60px" />  
+  <img src="https://raw.githubusercontent.com/getferdi/ferdi/develop/build-helpers/images/icon.png" height="60px" /> &nbsp;&nbsp; <img src="https://cdn1.airdroid.com/V3432012181656/theme/stock/images/logo_login.png" height="60px" />
 </p>
+
 
 ### _ℹ️ Also supports [Franz](https://meetfranz.com/)_
 
-### Installation
+### <ins>Installation</ins>
 📖 [Official installation instructions](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#user-content-installation)
 
 #### Currently under development (there's no regular development cycle)
