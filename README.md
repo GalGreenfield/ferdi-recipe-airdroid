@@ -5,7 +5,9 @@
   <img src="https://raw.githubusercontent.com/getferdi/ferdi/develop/build-helpers/images/icon.png" height="60px" /> &nbsp;&nbsp; <img src="https://cdn1.airdroid.com/V3432012181656/theme/stock/images/logo_login.png" height="60px" />  
 </p>
 
-Currently under development (there's no regular development cycle)
+### _ℹ️ Also supports [Franz](https://meetfranz.com/)_
 
-### How to create your own Franz recipes:
+#### Currently under development (there's no regular development cycle)
+
+How to create your own Ferdi/Franz recipes:<br>
 [📖 Read the documentation](https://github.com/meetfranz/plugins)
