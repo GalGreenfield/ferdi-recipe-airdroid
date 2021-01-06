@@ -7,12 +7,12 @@
 
 ### _ℹ️ Also supports [Franz](https://meetfranz.com/)_
 
-### <ins>Installation</ins>
- 1. Create a folder to put the files in (e.g `airdroid`, `airdroid-recipe`, etc.)
- 2. Treat this folder as `whatsapp` and follow [📖 the official installation instructions](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#user-content-installation)
+### 🛠️ <ins>Installation</ins>
+1. Create a folder to put the files in (e.g `airdroid`, `airdroid-recipe`, etc.)
+2. Treat this folder as `whatsapp` and follow [📖 the official installation instructions](https://github.com/meetfranz/plugins/blob/master/docs/integration.md#user-content-installation)
 
-#### Currently under development (there's no regular development cycle)
+ _ℹ️ Currently under development (there's no regular development cycle)_
 
-How to create your own Ferdi/Franz recipes:<br>
+ℹ️ <ins>How to create your own Ferdi/Franz recipes</ins>:<br>
 [🐱‍💻 Check out the Franz Devleoper Hub](https://meetfranz.com/developer)
 
